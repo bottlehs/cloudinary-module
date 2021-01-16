@@ -48,7 +48,7 @@
     }
   },
   "resolutions": {
-    "rollup-plugin-esbuild": "2.3.0"
+    "rollup-plugin-esbuild": "2.6.1"
   },
   "dependencies": {
     "@cld-apis/utils": "^0.1.1",
@@ -73,10 +73,10 @@
     "babel-eslint": "latest",
     "babel-jest": "latest",
     "eslint": "latest",
-    "husky": "^4.3.6",
+    "husky": "^4.3.8",
     "jest": "latest",
     "nuxt": "latest",
-    "playwright": "^1.7.0",
+    "playwright": "^1.7.1",
     "siroc": "latest",
     "standard-version": "latest"
   },
@@ -88,6 +88,6 @@
     "access": "public"
   },
   "volta": {
-    "node": "10.23.0"
+    "node": "10.23.1"
   }
 }
